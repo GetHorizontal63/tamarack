@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GetHorizontal63/seneca/debee57/apps/icons/tamarack.svg" width="84" alt="Tamarack logo">
+  <img src="https://raw.githubusercontent.com/GetHorizontal63/seneca/296fb0a/apps/icons/tamarack.svg" width="84" alt="Tamarack logo">
 </p>
 
 <h1 align="center">Tamarack</h1>
@@ -17,10 +17,10 @@ Tamarack is an app for **[Seneca](https://github.com/GetHorizontal63/seneca)**, 
 
 | | |
 |---|---|
-| Latest version | **0.1.0** |
+| Latest version | **0.1.1** |
 | Released | 2026-11-14 |
 | Requires | Windows 10 or 11 (64-bit), or Android 7.0 or newer, and a Seneca server |
-| Built from | Seneca [`debee57`](https://github.com/GetHorizontal63/seneca/commit/debee57) |
+| Built from | Seneca [`296fb0a`](https://github.com/GetHorizontal63/seneca/commit/296fb0a) |
 
 ## Install
 
