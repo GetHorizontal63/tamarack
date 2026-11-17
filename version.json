@@ -1,8 +1,8 @@
 {
-  "version": "0.1.14",
-  "tag": "v0.1.14",
+  "version": "0.1.15",
+  "tag": "v0.1.15",
   "date": "2026-11-17",
-  "source": "e8ba8d3",
+  "source": "686dc3c",
   "apk": "Tamarack.apk",
   "exe": "Tamarack-Setup.exe"
 }
